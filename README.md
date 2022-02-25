@@ -1,6 +1,6 @@
 # Work Day Planner
 
-### URL : https://bvsswave.github.io/Work-Day-Planner/
+### URL : https://bvsswave.github.io/Weather-App/
 
 ## Description
 A simple weather app that allows you to lookup a five day forecast for a city that you choose.
@@ -28,6 +28,5 @@ THEN I am again presented with current and future conditions for that city
 
 ## Mock-Up
 
-<img width="1215" alt="Screen Shot 2022-02-21 at 8 28 42 PM" src="https://user-images.githubusercontent.com/89813860/155057876-38c8abaf-3734-47de-a3fa-17a1233eba9c.png">
 
 
